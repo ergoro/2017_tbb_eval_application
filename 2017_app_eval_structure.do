@@ -1,0 +1,12 @@
+*structure dataset
+import delimited using 2017_evaluation_application.csv
+rename lasinstruccionesparaaplicaratbbe instructions
+rename eltiempoquemetomcompletarmiaplic time_apply
+rename laplataformautilizadaparaaplicar platform
+rename losmaterialesquetbbhapuestoadisp material
+rename ladiseminacindeinformacinparaapl info_promo
+rename duranteelprocesodeaplicacineltie consult_resp_time
+rename queaspectoscreesquedebenserconsi parameters
+rename sitienesotrasugerenciaorecomenda suggestions
+rename cmoteenterastesobrelastutorasgra plat_info
+save "C:\Users\Erick Gonzales\Documents\2_Teaching\Others\Tu_Beca_Bolivia\Evaluacion_TBB\eval_aplicacion\2017_application_eval.dta", replace
