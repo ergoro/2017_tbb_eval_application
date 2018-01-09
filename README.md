@@ -42,4 +42,4 @@ This module has two sections.
 - Code:
   - [code that executes all the other steps](https://github.com/ergoro/2017_tbb_eval_application/blob/master/2017_app_eval_main.do)
 - [Outputs]
-  - [NA]
+  - [Analysis note](https://docs.google.com/document/d/1mOQQ4t6Sa5SFIvdoRW2JKK1XS17hu_9zzFQIL-aAzIg/edit?usp=sharing)
